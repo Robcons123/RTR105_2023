@@ -1,0 +1,78 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/reinchiks/RTR105
+    4  ls -lt
+    5  ls -lt RTR105
+    6  LS -LT | grep RTR105
+    7  ls -lt | grep RTR105
+    8  rmdir RTR105
+    9  ls -lt
+   10  pwd
+   11  cd ~/RTR105
+   12  WHOAMI
+   13  whoami
+   14  ls -l
+   15  ls -la
+   16  cd ~/RTR105/.git
+   17  cat config
+   18  cat index
+   19  ..
+   20  ...
+   21  cd
+   22  cd ~/RTR105
+   23  nano git-uplaod
+   24  nano git-upload
+   25  nano
+   26  nano git-upload
+   27  chmod
+   28  chmod 754 git-upload
+   29  ls -lt
+   30  PATH=$PATH:-/RTR105/
+   31  echo $PATH
+   32  git -upload
+   33  git-
+   34  git-upload
+   35  echo $PATH
+   36  git-upload
+   37  PATH=$PATH~/RTR105/
+   38  git-upload
+   39  echo $PATH
+   40  git-upload
+   41  git -upload
+   42  chmod 754 git-upload
+   43  ls -lt
+   44  PATH=$PATH:~/RTR105/
+   45  echo $PATH
+   46  git-upload
+   47  git pull
+   48  git -version
+   49  git --version
+   50  pwd
+   51  ls -lt
+   52  git clone https://github.com/Robcons123/RTR105_2023
+   53  ls -lt
+   54  ls -lt RTR105_2023
+   55  pwd
+   56  ls -lt
+   57  rm -rf RTR105_2023
+   58  ls -lt
+   59  git clone https://github.com/Robcons123/RTR105_2023
+   60  ls -lt
+   61  cd RTR105_2023
+   62  ls -lt
+   63  ls -lta
+   64  cd .git
+   65  ls -lt
+   66  cat config
+   67  ls -lt
+   68  cd ,,
+   69  cd ..
+   70  ls -lt
+   71  nano git-upload
+   72  ls -lt
+   73  cat git-upload
+   74  chmod 754 git-upload
+   75  ls -lt
+   76  ./git-upload
+   77  history
+   78  history > history_20230920_Class_04.txt
