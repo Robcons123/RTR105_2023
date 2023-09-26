@@ -1,0 +1,16 @@
+    7  ls -lt
+    8  git clone https://github.com/Robcons123/RTR105_2023
+    9  ls -lt
+   10  cd RTR105_2023
+   11  ls -lt
+   12  cd RTR105_2023
+   13  ls -lt
+   14  cd ./
+   15  ls -lt
+   16  cd ..
+   17  ls -lt
+   18  rm -rf RTR105_2023
+   19  ls -lt
+   20  nano git-token
+   21  git-upload 04
+   22  ./git-upload 04
