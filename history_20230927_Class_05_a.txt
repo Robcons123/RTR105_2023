@@ -1,0 +1,16 @@
+  121  ./history
+  122  chmod 754 history
+  123  ./history
+  124  ls -lt
+  125  ./history 05
+  126  nano history
+  127  nano git-upload
+  128  ./history
+  129  ./history 05
+  130  ls-lt
+  131  ls -lt
+  132  nano history
+  133  ls nano history
+  134  nano history
+  135  ./history 05
+  136  ../.zsh_sessions
