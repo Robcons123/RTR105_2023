@@ -1,3 +1,9 @@
+  150  tail -f .bash_history
+  151  nano ~/.bash_history
+  152  ls -lt
+  153  ../.bash_history
+  154  cd ..
+  155  .bash_history
   156  ls -lt
   157  cd RTR105_2023
   158  history
@@ -8,9 +14,3 @@
   163  cd RTR105_2023
   164  open .bash_history
   165  history
-  166  history > .bash_history
-  167  ls -lt
-  168  open .bash_history
-  169  ./history
-  170  cd ~
-  171  history
