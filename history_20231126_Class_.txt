@@ -18,3 +18,16 @@ ls -lt
 nano variables.c 
 nano variables.c 
 nano variables.c 
+chsh -s /bin/bash
+ls -lt
+cd .//
+ls-lt
+ls -lt
+cd ../
+ls -lt
+cd RTR105_2023/
+./git-upload 
+ls -lt
+mkdir PU2
+cd PU2
+exit
