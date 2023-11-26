@@ -1,0 +1,20 @@
+  156  ls -lt
+  157  cd RTR105_2023
+  158  history
+  159  nano ~/.bash_history
+  160  open .bash_history
+  161  cd ~
+  162  open .bash_history
+  163  cd RTR105_2023
+  164  open .bash_history
+  165  history
+  166  history > .bash_history
+  167  ls -lt
+  168  open .bash_history
+  169  ./history
+  170  cd ~
+  171  history
+ls -lt
+nano variables.c 
+nano variables.c 
+nano variables.c 
